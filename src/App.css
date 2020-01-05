@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Galada&display=swap');
+
+#app {
+  font-family: 'Galada', cursive;
+  font-size: 28px;
+  margin-top: -2.3px;
+  margin-left: -4px;
+  background: linear-gradient(to right top, #456BA5,#456BA5, rgb(177, 205, 247));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
